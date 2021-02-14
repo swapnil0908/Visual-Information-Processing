@@ -24,7 +24,7 @@ character detection and recognition.
   and scikit-learn, a machine learning package for python. The algorithm we have followed is as
   shown below:
   
-  ![LICENSE PLATE DETECTION](/algorithm.png)
+  ![LICENSE PLATE DETECTION]<img src="/algorithm.png" width="40%">
   
   
   ## TOOLS
