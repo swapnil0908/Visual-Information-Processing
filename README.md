@@ -24,7 +24,7 @@ character detection and recognition.
   and scikit-learn, a machine learning package for python. The algorithm we have followed is as
   shown below:
   
-<img src="/algorithm.png" width="40%" height="40%">
+<img src="/algorithm.png" width="30%">
   
   
   ## TOOLS
