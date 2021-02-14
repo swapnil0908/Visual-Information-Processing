@@ -26,6 +26,5 @@ character detection and recognition.
   
 <img src="/algorithm.png" width="30%"/>
   
-  
   ## TOOLS
   Python, sci-kit learn, sci-kit image, Linux, GitHub.
